@@ -1,4 +1,4 @@
-# getting-and-cleaning-data-course-project-human-activity
+# Getting and Cleaning Data Course Project
 Human Activity Recognition Using Smartphones Dataset
 
 One of the most exciting areas in all of data science right now is wearable computing. 
