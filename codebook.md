@@ -1,24 +1,24 @@
 # varaibles in this data set
-subject: an identifier of the subject who carried out the experiment, there are 30 people in total
-activity: the activity label (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
+- subject: an identifier of the subject who carried out the experiment. Its range is from 1 to 30.
+- activity: the activity label (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
 time and frequency domain variables related to activities (70 variables total):
--time_of_Body_accelerometer-XYZ
--time_of_Gravity_accelerometer-XYZ
--time_of_Body_accelerometerJerk-XYZ
--time_of_Body_gyroscope-XYZ
--time_of_Body_gyroscopeJerk-XYZ
--time_of_Body_accelerometerMag_Magnitude
--time_of_Gravity_accelerometer_Magnitude
--time_of_Body_accelerometerJerk_Magnitude
--time_of_Body_gyroscope_Magnitude
--time_of_Body_gyroscopeJerk_Magnitude
--frequency_of_Body_accelerometer-XYZ
--frequency_of_Body_accelerometerJerk-XYZ
--frequency_of_Body_gyroscope-XYZ
--frequency_of_Body_accelerometer_Magnitude
--frequency_of_BodyBody_accelerometerJerk_Magnitude
--frequency_of_BodyBody_gyroscope_Magnitude
--frequency_of_BodyBody_gyroscopeJerk_Magnitude
+- time_of_Body_accelerometer-XYZ
+- time_of_Gravity_accelerometer-XYZ
+- time_of_Body_accelerometerJerk-XYZ
+- time_of_Body_gyroscope-XYZ
+- time_of_Body_gyroscopeJerk-XYZ
+- time_of_Body_accelerometerMag_Magnitude
+- time_of_Gravity_accelerometer_Magnitude
+- time_of_Body_accelerometerJerk_Magnitude
+- time_of_Body_gyroscope_Magnitude
+- time_of_Body_gyroscopeJerk_Magnitude
+- frequency_of_Body_accelerometer-XYZ
+- frequency_of_Body_accelerometerJerk-XYZ
+- frequency_of_Body_gyroscope-XYZ
+- frequency_of_Body_accelerometer_Magnitude
+- frequency_of_BodyBody_accelerometerJerk_Magnitude
+- frequency_of_BodyBody_gyroscope_Magnitude
+- frequency_of_BodyBody_gyroscopeJerk_Magnitude
 
 The features selected for this database come from the accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ. 
 These time domain signals were captured at a constant rate of 50 Hz. 
