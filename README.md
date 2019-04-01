@@ -23,5 +23,6 @@ The code in run_analysis.R does the following:
  - use descriptive activity names to name the activities in the data set
  - appropriately label the data set with descriptive variable names
  - creates a second, independent tidy data set with the average of each variable for each activity and each subject
- - print out the tidy data set to folder, called step 5 data.txt
+ - print out the tidy data set to folder
  
+The codebook.md in this repo describes the variables in the output file
