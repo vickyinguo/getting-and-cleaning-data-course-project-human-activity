@@ -1,5 +1,5 @@
 # getting-and-cleaning-data-course-project-human-activity
-getting and cleaning data course project human activity
+Human Activity Recognition Using Smartphones Dataset
 
 One of the most exciting areas in all of data science right now is wearable computing. 
 Companies like Fitbit, Nike, and Jawbone Up are racing to develop the most advanced algorithms to attract new users. 
