@@ -48,7 +48,9 @@ The set of variables that were estimated from these signals are:
 - mean(): Mean value
 - std(): Standard deviation
 
-Then the mean of each variable for each activity and each subject is calcuated and showing above.
+Then abbreviations in the variable names are give a descriptive name, for example, t at the beginning of the variable is replaced with time of, acc is replaced with accelerometer, etc.
+
+Lastly, the mean of each variable for each activity and each subject is calculated and showing below.
 
 Complete list of varaibles are:
  [1] "subject"                                                     
