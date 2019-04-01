@@ -1,7 +1,10 @@
 # varaibles in this data set
+
+## subject and activity
 - subject: an identifier of the subject who carried out the experiment. Its range is from 1 to 30.
 - activity: the activity label (WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING)
-time and frequency domain variables related to activities (70 variables total):
+
+## time and frequency domain variables related to activities (70 variables total):
 - time_of_Body_accelerometer-XYZ
 - time_of_Gravity_accelerometer-XYZ
 - time_of_Body_accelerometerJerk-XYZ
