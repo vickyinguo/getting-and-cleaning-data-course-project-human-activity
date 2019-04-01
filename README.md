@@ -26,3 +26,5 @@ The code in run_analysis.R does the following:
  - print out the tidy data set to folder
  
 The codebook.md in this repo describes the variables in the output file
+
+The output file contains subject, activity and mean of the selected features of each subject and each activity.
